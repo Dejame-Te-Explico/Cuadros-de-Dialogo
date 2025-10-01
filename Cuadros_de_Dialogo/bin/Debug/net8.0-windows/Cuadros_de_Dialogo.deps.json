@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Cuadros_de_Dialogo/1.0.0": {
+        "runtime": {
+          "Cuadros_de_Dialogo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cuadros_de_Dialogo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

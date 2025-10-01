@@ -1,0 +1,16 @@
+D:\Escuela\Semestre 5\Técnica\Desarrollo Visual 2\Etapa 1\Cuadros_de_Dialogo\bin\Debug\net8.0-windows\Cuadros_de_Dialogo.exe
+D:\Escuela\Semestre 5\Técnica\Desarrollo Visual 2\Etapa 1\Cuadros_de_Dialogo\bin\Debug\net8.0-windows\Cuadros_de_Dialogo.deps.json
+D:\Escuela\Semestre 5\Técnica\Desarrollo Visual 2\Etapa 1\Cuadros_de_Dialogo\bin\Debug\net8.0-windows\Cuadros_de_Dialogo.runtimeconfig.json
+D:\Escuela\Semestre 5\Técnica\Desarrollo Visual 2\Etapa 1\Cuadros_de_Dialogo\bin\Debug\net8.0-windows\Cuadros_de_Dialogo.dll
+D:\Escuela\Semestre 5\Técnica\Desarrollo Visual 2\Etapa 1\Cuadros_de_Dialogo\bin\Debug\net8.0-windows\Cuadros_de_Dialogo.pdb
+D:\Escuela\Semestre 5\Técnica\Desarrollo Visual 2\Etapa 1\Cuadros_de_Dialogo\obj\Debug\net8.0-windows\Cuadros_de_Dialogo.Form1.resources
+D:\Escuela\Semestre 5\Técnica\Desarrollo Visual 2\Etapa 1\Cuadros_de_Dialogo\obj\Debug\net8.0-windows\Cuadros_de_Dialogo.csproj.GenerateResource.cache
+D:\Escuela\Semestre 5\Técnica\Desarrollo Visual 2\Etapa 1\Cuadros_de_Dialogo\obj\Debug\net8.0-windows\Cuadros_de_Dialogo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escuela\Semestre 5\Técnica\Desarrollo Visual 2\Etapa 1\Cuadros_de_Dialogo\obj\Debug\net8.0-windows\Cuadros_de_Dialogo.AssemblyInfoInputs.cache
+D:\Escuela\Semestre 5\Técnica\Desarrollo Visual 2\Etapa 1\Cuadros_de_Dialogo\obj\Debug\net8.0-windows\Cuadros_de_Dialogo.AssemblyInfo.cs
+D:\Escuela\Semestre 5\Técnica\Desarrollo Visual 2\Etapa 1\Cuadros_de_Dialogo\obj\Debug\net8.0-windows\Cuadros_de_Dialogo.csproj.CoreCompileInputs.cache
+D:\Escuela\Semestre 5\Técnica\Desarrollo Visual 2\Etapa 1\Cuadros_de_Dialogo\obj\Debug\net8.0-windows\Cuadros_de_Dialogo.dll
+D:\Escuela\Semestre 5\Técnica\Desarrollo Visual 2\Etapa 1\Cuadros_de_Dialogo\obj\Debug\net8.0-windows\refint\Cuadros_de_Dialogo.dll
+D:\Escuela\Semestre 5\Técnica\Desarrollo Visual 2\Etapa 1\Cuadros_de_Dialogo\obj\Debug\net8.0-windows\Cuadros_de_Dialogo.pdb
+D:\Escuela\Semestre 5\Técnica\Desarrollo Visual 2\Etapa 1\Cuadros_de_Dialogo\obj\Debug\net8.0-windows\Cuadros_de_Dialogo.genruntimeconfig.cache
+D:\Escuela\Semestre 5\Técnica\Desarrollo Visual 2\Etapa 1\Cuadros_de_Dialogo\obj\Debug\net8.0-windows\ref\Cuadros_de_Dialogo.dll
